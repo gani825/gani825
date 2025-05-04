@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kim Gaeun 👩‍💻</h1>
-<p align="center">Front-end Developer | 감성 있는 UI/UX를 그리는 사람</p>
+<h1 align="center">Kim Gaeun 👩‍💻</h1>
+<p align="center">Front-end Developer</p>
 
 ---
 
@@ -21,8 +21,8 @@
 ---
 
 📌 **Pinned Projects**
-- 🗓️ [PlanFit](https://github.com/gani825/fitness-calendar): 운동 스케줄 캘린더
-- ✈️ [HandTrip](https://github.com/gani825/handtrip): 감성 여행 플래너
+- 🗓️ [PlanFit](https://github.com/gani825/PlanFit): 운동 스케줄 캘린더
+- ✈️ [HandTrip](https://github.com/bong123123/Team_HandTrip_FN): 감성 여행 플래너
 - 🖼️ [Portfolio](https://gani825.github.io): 포트폴리오 사이트
 
 ---
