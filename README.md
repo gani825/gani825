@@ -1,5 +1,5 @@
-<h1 align="center">Kim Gaeun 👩‍💻</h1>
-<p align="center">Front-end Developer</p>
+<h1 align="left">Kim Gaeun 👩‍💻</h1>
+<p align="left">Front-end Developer</p>
 
 ---
 
