@@ -26,7 +26,7 @@
 📌 **Pinned Projects**
 - 🗓️ [PlanFit](https://github.com/gani825/PlanFit): 운동 스케줄 캘린더
 - ✈️ [HandTrip](https://github.com/bong123123/Team_HandTrip_FN): 감성 여행 플래너
-- 🖼️ [Portfolio](https://gani825.github.io): 포트폴리오 사이트
+- 🖼️ [Portfolio](https://github.com/gani825/gaeun_portfolio): 포트폴리오 사이트
 
 ---
 
