@@ -5,9 +5,8 @@
 
 🎯 **About Me**
 - 웹 퍼블리셔 경험을 바탕으로 프론트엔드 개발로 성장 중
-- React 기반 프로젝트 경험 다수 (Firebase 연동 포함)
+- React 기반 프로젝트 경험 (Firebase 연동 포함)
 - 사용자 경험을 고려한 감각적인 디자인 구현에 집중
-
 ---
 
 🛠 **Tech Stack**  
@@ -26,7 +25,7 @@
 📌 **Pinned Projects**
 - 🗓️ [PlanFit](https://github.com/gani825/PlanFit): 운동 스케줄 캘린더
 - ✈️ [HandTrip](https://github.com/bong123123/Team_HandTrip_FN): 감성 여행 플래너
-- 🖼️ [Portfolio](https://github.com/gani825/gaeun_portfolio): 포트폴리오 사이트
+- 🖼️ [Portfolio](https://github.com/gani825/gaeun_portfolio): 포트폴리오
 
 ---
 
