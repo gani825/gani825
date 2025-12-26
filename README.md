@@ -5,8 +5,7 @@
 기획 → 설계 → 구현 → 개선까지 기록한 실무형 포트폴리오입니다.  
 실제 개발 과정과 문제 해결 경험을 확인하실 수 있습니다.  
 
-👉 전체 포트폴리오 보기  
-[Gaeun Dev Portfolio](https://fair-busby-5fd.notion.site/Developer-Portfolio-2cff444f601780bda162e2336f813fdb)
+👉  [Gaeun Dev Portfolio](https://fair-busby-5fd.notion.site/Developer-Portfolio-2cff444f601780bda162e2336f813fdb)
 
 
 ---
@@ -18,8 +17,7 @@
 - 기간: 2024.11.30 ~ 2025.01.06  
 - 역할: 주요 화면 UI 설계 및 구현 / 사용자 흐름 구조 설계  
 
-👉 상세 보기  
-[HandTrip_Project](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)  
+👉  [HandTrip_Project](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)  
 
 
 📌 **PlanFit**  
@@ -27,8 +25,7 @@
 - 기간: 2024.11.19 ~ 2024.12.13  
 - 역할: 캘린더 핵심 기능 및 주요 화면 UI  
 
-👉 상세 보기  
-[PlanFit_Project](https://fair-busby-5fd.notion.site/PlanFit-2cff444f6017802799b7c0870e6bca56)
+👉  [PlanFit_Project](https://fair-busby-5fd.notion.site/PlanFit-2cff444f6017802799b7c0870e6bca56)
 
 ---
 
