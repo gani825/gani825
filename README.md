@@ -26,10 +26,11 @@ https://fair-busby-5fd.notion.site/Developer-Portfolio-2cff444f601780bda162e2336
 👉 https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a
 
 ### 📌 PlanFit
-개인 맞춤형 운동 플래너 서비스  
-기간: 2024.11.19 ~ 2024.12.13  
-역할: 캘린더 핵심 기능 및 주요 화면 UI  
+개인 맞춤형 운동 플래너 서비스
+기간: 2024.11.19 ~ 2024.12.13
+역할: 캘린더 핵심 기능 및 주요 화면 UI
 👉 https://fair-busby-5fd.notion.site/PlanFit-2cff444f6017802799b7c0870e6bca56
+
 ---
 
 ## 🛠️ Skills & Tools
