@@ -1,23 +1,32 @@
 # 김가은 | Gaeun
 
+
 ## 📂 Portfolio
 기획 → 설계 → 구현 → 개선까지 기록한 실무형 포트폴리오입니다.  
 👉 전체 포트폴리오 보기  
 https://fair-busby-5fd.notion.site/Developer-Portfolio-2cff444f601780bda162e2336f813fdb
 
 
-## 🧑‍💻 Team Projects
-### 📌 HandTrip
-개인 맞춤형 여행 플래너 서비스  
-기간: 2024.11.30 ~ 2025.01.06  
-역할: 홈 / 회원가입 / 여행계획 / 마이페이지 UI 구현  
-👉 https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a
+---
 
-### 📌 PlanFit
+## 🧑‍💻 Team Projects
+
+📌 **HandTrip**  
+개인 맞춤형 여행 플래너 서비스  
+- 기간: 2024.11.30 ~ 2025.01.06  
+- 역할: 홈 / 회원가입 / 여행계획 / 마이페이지 UI 구현  
+
+👉 상세 보기  
+https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a  
+
+
+📌 **PlanFit**  
 개인 맞춤형 운동 플래너 서비스  
-기간: 2024.11.19 ~ 2024.12.13  
-역할: 캘린더 핵심 기능 및 주요 화면 UI  
-👉 https://fair-busby-5fd.notion.site/PlanFit-2cff444f6017802799b7c0870e6bca56
+- 기간: 2024.11.19 ~ 2024.12.13  
+- 역할: 캘린더 핵심 기능 및 주요 화면 UI  
+
+👉 상세 보기  
+https://fair-busby-5fd.notion.site/PlanFit-2cff444f6017802799b7c0870e6bca56
 
 ---
 
