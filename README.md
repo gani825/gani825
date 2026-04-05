@@ -14,21 +14,21 @@
 팀장을 맡았고 인증, 차량/주차, 알림 도메인을 담당했습니다.
 SecurityConfig를 허용 방식에서 차단 방식으로 전환하는 과정에서 CSRF, CORS 문제가 연달아 터졌고,
 원인이 있는 레이어와 에러가 터지는 레이어가 다를 수 있다는 걸 직접 겪으면서 배웠습니다.
-👉 [바로가기](https://fair-busby-5fd.notion.site/1-MA-APTeN-322f444f601780358d66cdd1dd405d77?source=copy_link)
+👉 [APTeN 노션 바로가기](https://fair-busby-5fd.notion.site/1-MA-APTeN-322f444f601780358d66cdd1dd405d77?source=copy_link)
 
 **HandTrip** — 개인 맞춤형 여행 플래너 서비스
 `2024.11.30 ~ 2025.01.06`
 
 프론트엔드를 담당했고 백엔드 팀과 API 협업을 처음 경험했습니다.
 날짜 범위 선택 기능을 구현하면서 시작일과 종료일 사이 날짜를 모두 선택 상태로 만드는 로직이 생각보다 까다로웠고, 지도 마커 커스터마이징 작업도 직접 해봤습니다.
-👉 [바로가기](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
+👉 [HandTrip 노션 바로가기](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
 
 **PlanFit** — 개인 맞춤형 운동 플래너 서비스
 `2024.11.19 ~ 2024.12.13`
 
 React를 처음 써본 프로젝트였습니다.
 외부 API로 헬스 정보를 불러오는 과정과 캘린더 UI 구현이 낯설었는데, 모르는 것들을 하나씩 찾아가며 완성했습니다.
-👉 [바로가기](https://fair-busby-5fd.notion.site/PlanFit-2cff444f6017802799b7c0870e6bca56)
+👉 [PlanFit 노션 바로가기](https://fair-busby-5fd.notion.site/PlanFit-2cff444f6017802799b7c0870e6bca56)
 
 ---
 
