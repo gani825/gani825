@@ -9,40 +9,14 @@
 
 ## Skills
 
-<table>
-  <tr>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,spring,redis,kafka" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Security</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=springsecurity" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="48"/>
-      <img src="https://img.shields.io/badge/OAuth2-000000?style=flat&logoColor=white" height="48"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,mariadb,firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=github,figma,notion,idea,vscode" />
-    </td>
-  </tr>
-</table>
+| | |
+|:---|:---|
+| **Frontend** | [![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react)](https://skillicons.dev) |
+| **Backend** | [![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka)](https://skillicons.dev) |
+| **Database** | [![skillicons](https://skillicons.dev/icons?i=mysql,mariadb,firebase)](https://skillicons.dev) |
+| **Tools** | [![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode)](https://skillicons.dev) |
+
+---
 
 ## Projects
 
@@ -71,9 +45,8 @@ SecurityConfig를 허용 방식에서 차단 방식으로 전환하다가 CSRF, 
 ### HandTrip — 개인 맞춤형 여행 플래너
 `2024.11 ~ 2025.01` | 팀 프로젝트 | 프론트엔드 담당
 
-날짜 범위 선택 로직이 생각보다 까다로웠고 카카오맵 마커 커스터마이징도 직접 해봤습니다.
+날짜 범위 선택 로직이 생각보다 까다로웠고 구글맵 마커 커스터마이징도 직접 해봤습니다.
 
-`Vue3` `JavaScript` `카카오맵 API`
+`Vue3` `JavaScript` `구글맵 API`
 
 [📎 HandTrip Notion](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
-
