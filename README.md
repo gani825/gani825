@@ -9,12 +9,21 @@
 
 ## Skills
 
-| | |
-|:---|:---|
-| **Frontend** | [![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react)](https://skillicons.dev) |
-| **Backend** | [![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka)](https://skillicons.dev) |
-| **Database** | [![skillicons](https://skillicons.dev/icons?i=mysql,mariadb,firebase)](https://skillicons.dev) |
-| **Tools** | [![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode)](https://skillicons.dev) |
+**Frontend**
+
+[![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react)](https://skillicons.dev)
+
+**Backend**
+
+[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka)](https://skillicons.dev)
+
+**Database**
+
+[![skillicons](https://skillicons.dev/icons?i=mysql,mariadb,firebase)](https://skillicons.dev)
+
+**Tools**
+
+[![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode)](https://skillicons.dev)
 
 ---
 
