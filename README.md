@@ -11,19 +11,19 @@
 
 **Frontend**
 
-[![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react&titles=true&perline=5)](https://skillicons.dev)
 
 **Backend**
 
-[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka&titles=true&perline=4)](https://skillicons.dev)
 
 **Database**
 
-[![skillicons](https://skillicons.dev/icons?i=mysql,mariadb,firebase)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=mysql,firebase&titles=true&perline=2)](https://skillicons.dev)
 
 **Tools**
 
-[![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode&titles=true&perline=5)](https://skillicons.dev)
 
 ---
 
