@@ -44,8 +44,6 @@
   </tr>
 </table>
 
----
-
 ## Projects
 
 ### APTeN 2차 — MSA 기반 스마트 아파트 관리 시스템
