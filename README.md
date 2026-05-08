@@ -9,17 +9,40 @@
 
 ## Skills
 
-**Frontend**
-[![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react&perline=5)](https://skillicons.dev)
-
-**Backend**
-[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka&perline=4)](https://skillicons.dev)
-
-**Database**
-[![skillicons](https://skillicons.dev/icons?i=mysql,firebase&perline=2)](https://skillicons.dev)
-
-**Tools**
-[![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode&perline=5)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,redis,kafka" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Security</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=springsecurity" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="48"/>
+      <img src="https://img.shields.io/badge/OAuth2-000000?style=flat&logoColor=white" height="48"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,mariadb,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github,figma,notion,idea,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
