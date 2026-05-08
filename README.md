@@ -9,7 +9,17 @@
 
 ## Skills
 
-[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka,vue,js,html,css,react,mysql,firebase,github,figma,notion,idea,vscode&perline=8)](https://skillicons.dev)
+**Frontend**
+[![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react&perline=5)](https://skillicons.dev)
+
+**Backend**
+[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka&perline=4)](https://skillicons.dev)
+
+**Database**
+[![skillicons](https://skillicons.dev/icons?i=mysql,firebase&perline=2)](https://skillicons.dev)
+
+**Tools**
+[![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode&perline=5)](https://skillicons.dev)
 
 ---
 
@@ -45,3 +55,4 @@ SecurityConfig를 허용 방식에서 차단 방식으로 전환하다가 CSRF, 
 `Vue3` `JavaScript` `카카오맵 API`
 
 [📎 HandTrip Notion](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
+
