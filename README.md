@@ -9,13 +9,14 @@
 
 ## Skills
 
+
 **Frontend**
 
 [![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react&titles=true&perline=5)](https://skillicons.dev)
 
 **Backend**
 
-[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka&titles=true&perline=4)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka,docker&titles=true&perline=4)](https://skillicons.dev)
 
 **Database**
 
