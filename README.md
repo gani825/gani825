@@ -45,5 +45,3 @@ SecurityConfig를 허용 방식에서 차단 방식으로 전환하다가 CSRF, 
 `Vue3` `JavaScript` `카카오맵 API`
 
 [📎 Notion](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
-
-https://github-readme-stats.vercel.app/api?username=gani825
