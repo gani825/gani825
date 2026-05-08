@@ -22,26 +22,26 @@
 
 `Java` `Spring Boot` `Kafka` `Redis` `Spring Security` `Vue3`
 
-[📎 Notion](https://fair-busby-5fd.notion.site/2-MSA-APTeN)
+[📎 MSA-APTeN Notion] 진행중
 
 ---
 
 ### APTeN 1차 — 모놀리식 스마트 아파트 관리 시스템
-`2026.02 ~ 2026.03` | 팀 프로젝트 (4인) | 팀장 | 인증 / 차량,주차 / 알림 도메인 담당
+`2026.02 ~ 2026.03` | 팀 프로젝트 (4인) | 팀장 | 인증 / 차량 / 주차 / 알림 도메인 담당
 
 SecurityConfig를 허용 방식에서 차단 방식으로 전환하다가 CSRF, CORS 문제가 연달아 났고 에러 발생 레이어와 원인 레이어가 다를 수 있다는 걸 직접 경험했습니다.
 
 `Java` `Spring Boot` `MyBatis` `Vue3` `MySQL`
 
-[📎 Notion](https://fair-busby-5fd.notion.site/1-MA-APTeN-322f444f601780358d66cdd1dd405d77)
+[📎 MA-APTeN Notion](https://fair-busby-5fd.notion.site/1-MA-APTeN-322f444f601780358d66cdd1dd405d77)
 
 ---
 
 ### HandTrip — 개인 맞춤형 여행 플래너
 `2024.11 ~ 2025.01` | 팀 프로젝트 | 프론트엔드 담당
 
-날짜 범위 선택 로직이 생각보다 까다로웠고, 카카오맵 마커 커스터마이징도 직접 해봤습니다.
+날짜 범위 선택 로직이 생각보다 까다로웠고 카카오맵 마커 커스터마이징도 직접 해봤습니다.
 
 `Vue3` `JavaScript` `카카오맵 API`
 
-[📎 Notion](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
+[📎 HandTrip Notion](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
