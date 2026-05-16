@@ -14,13 +14,13 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://fair-busby-5fd.notion.site/Developer-Portfolio-2cff444f601780bda162e2336f813fdb)
 [![Blog](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://kgee0503.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인이메일주소)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgee0503@gmail.com)
 
 </div>
 
 <br>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br>
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
