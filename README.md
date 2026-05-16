@@ -8,7 +8,7 @@
 <!-- 소개 + 링크 뱃지 -->
 <div align="center">
 
-### 🔍 에러가 나면 원인이 나올 때까지 파고드는 풀스택 개발자입니다.
+### 구조부터 보고 끝까지 완성하는 풀스택 개발자입니다.
 
 <br>
 
@@ -20,9 +20,7 @@
 
 <br>
 
-## 🛠 Tech Stack
-
-<div align="center">
+## Tech Stack
 
 **Frontend**
 
@@ -40,20 +38,14 @@
 
 [![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode&perline=5)](https://skillicons.dev)
 
-</div>
-
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Gani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgee0503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgee0503&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-<br>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kgee0503&theme=tokyonight&hide_border=true)
+![Gani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gani825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gani825&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
