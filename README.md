@@ -1,7 +1,7 @@
 <!-- 상단 헤더 배너 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kim%20Ga-eun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Kim%20Ga-eun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16)
 
 </div>
 
@@ -63,6 +63,6 @@
 <!-- 하단 푸터 배너 -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
 
 </div>
