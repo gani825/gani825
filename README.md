@@ -54,7 +54,7 @@
 <br><br>
 
 <!-- Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=gani825&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/gani825)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gani825&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=5&rank=-?)](https://github.com/gani825)
 
 </div>
 
