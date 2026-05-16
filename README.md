@@ -52,13 +52,17 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/2-most-commit-language-card.svg" />
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/1-repos-per-language-card.svg" />
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/3-stats-card.svg" />
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/4-productive-time-card.svg" />
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
 
