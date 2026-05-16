@@ -48,11 +48,13 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=gani825&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<!-- Snake 잔디 애니메이션 -->
+<img src="https://raw.githubusercontent.com/gani825/gani825/output/github-contribution-grid-snake-dark.svg" />
 
-<br>
+<br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gani825&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/gani825)
+<!-- Streak 카드 -->
+![Streak](https://streak-stats.demolab.com/?user=gani825&theme=tokyonight&hide_border=true)
 
 </div>
 
