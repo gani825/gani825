@@ -1,62 +1,67 @@
-# 김가은
+<!-- 상단 헤더 배너 -->
+<div align="center">
 
-에러가 나면 원인이 나올 때까지 파고드는 풀스택 개발자입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kim%20Ga-eun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://fair-busby-5fd.notion.site/Developer-Portfolio-2cff444f601780bda162e2336f813fdb)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=tistory&logoColor=white)](https://kgee0503.tistory.com/)
+</div>
 
----
+<!-- 소개 + 링크 뱃지 -->
+<div align="center">
 
-## Skills
+### 🔍 에러가 나면 원인이 나올 때까지 파고드는 풀스택 개발자입니다.
 
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://fair-busby-5fd.notion.site/Developer-Portfolio-2cff444f601780bda162e2336f813fdb)
+[![Blog](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://kgee0503.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인이메일주소)
+
+</div>
+
+<br>
+
+## 🛠 Tech Stack
+
+<div align="center">
 
 **Frontend**
 
-[![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react&titles=true&perline=5)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react&perline=5)](https://skillicons.dev)
 
 **Backend**
 
-[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka,docker&titles=true&perline=5)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=java,spring,redis,kafka,docker&perline=5)](https://skillicons.dev)
 
 **Database**
 
-[![skillicons](https://skillicons.dev/icons?i=mysql,firebase&titles=true&perline=2)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=mysql,firebase&perline=2)](https://skillicons.dev)
 
 **Tools**
 
-[![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode&titles=true&perline=5)](https://skillicons.dev)
+[![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode&perline=5)](https://skillicons.dev)
 
----
+</div>
 
-## Projects
+<br>
 
-### APTeN 2차 — MSA 기반 스마트 아파트 관리 시스템
-`2026.04 ~ 진행 중` | 팀 프로젝트 (4인) | 인증 / FCM 알림 / 주차 / 차량 서비스 담당
+## 📊 GitHub Stats
 
-서비스 간 직접 호출 없이 Kafka 이벤트로 상태를 동기화하고 주차 현황은 NONE / BASIC / SENSOR 타입별로 응답 구조를 다르게 설계하고 있습니다. JWT + Redis 기반 인증과 OAuth2 소셜 로그인도 함께 구현했습니다.
+<div align="center">
 
-`Java` `Spring Boot` `Kafka` `Redis` `Spring Security` `Vue3`
+![Gani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgee0503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgee0503&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-[📎 MSA-APTeN Notion] 진행중
+<br>
 
----
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kgee0503&theme=tokyonight&hide_border=true)
 
-### APTeN 1차 — 모놀리식 스마트 아파트 관리 시스템
-`2026.02 ~ 2026.03` | 팀 프로젝트 (4인) | 팀장 | 인증 / 차량 / 주차 / 알림 도메인 담당
+</div>
 
-SecurityConfig를 허용 방식에서 차단 방식으로 전환하다가 CSRF, CORS 문제가 연달아 났고 에러 발생 레이어와 원인 레이어가 다를 수 있다는 걸 직접 경험했습니다.
+<br>
 
-`Java` `Spring Boot` `MyBatis` `Vue3` `MySQL`
+<!-- 하단 푸터 배너 -->
+<div align="center">
 
-[📎 MA-APTeN Notion](https://fair-busby-5fd.notion.site/1-MA-APTeN-322f444f601780358d66cdd1dd405d77)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
 
----
-
-### HandTrip — 개인 맞춤형 여행 플래너
-`2024.11 ~ 2025.01` | 팀 프로젝트 | 프론트엔드 담당
-
-날짜 범위 선택 로직이 생각보다 까다로웠고 구글맵 마커 커스터마이징도 직접 해봤습니다.
-
-`Vue3` `JavaScript` `구글맵 API`
-
-[📎 HandTrip Notion](https://fair-busby-5fd.notion.site/HandTrip-2cff444f60178027a61fcb752ae9054a)
+</div>
