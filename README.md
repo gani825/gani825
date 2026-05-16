@@ -22,6 +22,8 @@
 
 ## Tech Stack
 
+<div align="center">
+
 **Frontend**
 
 [![skillicons](https://skillicons.dev/icons?i=html,css,js,vue,react&perline=5)](https://skillicons.dev)
@@ -38,14 +40,16 @@
 
 [![skillicons](https://skillicons.dev/icons?i=github,figma,notion,idea,vscode&perline=5)](https://skillicons.dev)
 
+</div>
+
 <br>
 
 ## GitHub Stats
 
 <div align="center">
 
-![Gani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gani825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gani825&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Gani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gani825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gani825&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </div>
 
