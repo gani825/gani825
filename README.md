@@ -48,8 +48,17 @@
 
 <div align="center">
 
-![Gani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gani825&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gani825&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com/?user=gani825&theme=tokyonight&hide_border=true)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/2-most-commit-language-card.svg" />
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/1-repos-per-language-card.svg" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/3-stats-card.svg" />
+<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/4-productive-time-card.svg" />
 
 </div>
 
