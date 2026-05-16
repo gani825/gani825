@@ -1,0 +1,24 @@
+# 프로필 요약 카드를 매일 자동 생성하는 워크플로
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # 매일 UTC 00:00 (한국시간 09:00) 자동 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # 수동 실행도 가능
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-cards
+    permissions:
+      contents: write   # 저장소에 SVG 파일 쓰기 권한
+    steps:
+      - uses: actions/checkout@v4
+
+      # 프로필 카드 생성 액션 실행
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: gani825
