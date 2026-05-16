@@ -48,21 +48,11 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=gani825&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=gani825&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <br>
 
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/gani825/gani825/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=gani825&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/gani825)
 
 </div>
 
